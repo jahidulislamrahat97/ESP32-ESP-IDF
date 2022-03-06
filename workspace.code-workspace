@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "blink",
+			"path": "GPIO/blink"
+		},
+		{
+			"name": "logging",
+			"path": "BASIC/logging"
+		}
+	],
+	"settings": {}
+}
